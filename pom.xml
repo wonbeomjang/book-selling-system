@@ -29,7 +29,7 @@
     </build>
 
     <properties>
-        <jackson.version>2.9.10.4</jackson.version>
+        <jackson.version>2.9.10.7</jackson.version>
     </properties>
 
     <dependencies>
